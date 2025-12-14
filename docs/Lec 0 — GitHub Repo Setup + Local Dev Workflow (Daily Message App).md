@@ -259,7 +259,7 @@ Create `.gitignore`:
 
 Create `.env.example`:
 
-    AWS_REGION=ap-northeast-1
+    AWS_REGION=us-east-1
     DDB_TABLE_NAME=DailyMessages
     SQS_QUEUE_URL=
 
@@ -303,6 +303,7 @@ Serverless Concept (Important)
 --------------------------------------------------
 
 Serverless means:
+
 - AWS manages servers
 - You manage code, logic, permissions, and design
 
@@ -314,6 +315,7 @@ Definition of Done (Checklist)
 --------------------------------------------------
 
 You are done with Lec 0 if:
+
 - GitHub repo exists
 - Project structure is correct
 - npm run dev works
@@ -325,6 +327,7 @@ Preview of Lec 1
 --------------------------------------------------
 
 Next lecture:
+
 - Introduce DynamoDB
 - Design date-based schema
 - Read/write real data
