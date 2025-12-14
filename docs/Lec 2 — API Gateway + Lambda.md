@@ -458,6 +458,7 @@ Commit:
     git push origin main
 
 NOTE:
+
 - The Lambda console paste cannot be tracked in git.
 - That is OK for Lec 2.
 - In later lectures (or an optional IaC lecture), we will deploy from repo.
@@ -472,13 +473,3 @@ Definition of Done (Lec 2)
 - Everything is in us-east-1
 - Commit 3 pushed
 
---------------------------------------------------
-Preview of Lec 3
---------------------------------------------------
-
-Next lecture:
-
-- POST /messages/bulk
-- BatchWrite to DynamoDB
-- Add overwrite safety (force=true)
-- Update Lambda role to allow writes
