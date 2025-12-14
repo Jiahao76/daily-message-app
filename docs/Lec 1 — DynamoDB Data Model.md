@@ -385,6 +385,7 @@ Preview of Lec 2
 --------------------------------------------------
 
 Next lecture:
+
 - API Gateway HTTP API
 - Lambda handler for GET /today
 - API → Lambda → DynamoDB
